@@ -1,0 +1,13 @@
+---
+title: Invited Talks
+---
+
+<% # Get data from invited_talks.yml %>
+<% source = data.invited_talks %>
+<% # Reserve a section under css class container %>
+<div class="container left" markdown=1>
+<% # Get the title from the source %>
+<%= source.title %>
+<% # Create partial table for IT data %>
+<%= partial 'partials/table_with_column_names', locals: {:source => source.IT} %>
+</div>

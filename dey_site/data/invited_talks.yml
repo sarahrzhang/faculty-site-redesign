@@ -1,0 +1,175 @@
+# Professional Activities / Invited Talks
+# Making title for the Invited Talks page
+title: >
+  # INVITED TALKS
+# Create content (Invited Talks table) for html
+IT:  
+  <a href="https://www.birs.ca/events/2018/5-day-workshops/18w5140" target="_blank"> Multiparameter persistent homology,  BIRS-CMO </a>:
+    - Mexico
+    - August, 2018
+    - N/A
+
+  <a href="https://dccg.upc.edu/irp2018/details-of-the-activities/il1/" target="_blank"> Computational Topology and Data Analysis, Intensive Research Program in Discrete, Combinatorial and Computational Geometry, CRM </a>:
+    - Spain
+    - 2018
+    - N/A
+
+  A tool for approximating the persisitence of Rips filtrations efficiently, SoCG workshop on Compu Topo, 2016:
+    - N/A
+    - N/A
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/SimBa/SimBa.pdf" target="_blank"> Talk Slides </a>
+  
+  <a href="http://ist.ac.at/acat/" target="_blank"> Multiscale Mapper, ACAT workshop, IST-Austria </a>:
+    - Austria
+    - 2015
+    - <a href="http://ist.ac.at/fileadmin/user_upload/events_pages/acat/ACAT2015_Tamal_Dey.pdf" target="_blank"> Talk Slides </a>
+
+  Computational topology in reconstruction, mesh generation, and data analysis, Keynote in Canad. Conf. Computational Geometry:
+    - N/A
+    - 2014
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/CCCG14/CCCG14.pdf" target="_blank"> Talk Slides </a>
+
+  <a href="http://www.ima.umn.edu/2013-2014/W4.28-5.2.14/" target="_blank"> Computing persistence for simplicial maps with application to data sparsification, IMA workshop on Topology and Geomtry of Networks and Discrete Metric Spaces </a>:
+    - N/A
+    - 2014
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/simplicial-map/PersistenceForSimplicialMap.pdf" target="_blank"> Talk Slides </a>
+
+  <a href="http://www.ima.umn.edu/2013-2014/W10.28-11.1.13/" target="_blank"> Graph Induced Complex, IMA workshop on Modern application of homology and Cohomology </a>:
+    - N/A
+    - 2013
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/GIC/GIC.pdf" target="_blank"> Talk Slides </a>
+
+  Better handles and tunnels, workshop  on geometric computing, SoCG:
+    - N/A
+    - 2013
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/HanTun/HanTun.ppt" target="_blank"> Talk Slides </a>
+
+  Delaunay mesh generations, workshop on mesh generation, SoCG:
+    - N/A
+    - 2013
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/Delmesh/DelMesh2013.pptx" target="_blank"> Talk Slides </a>
+
+  <a href="http://www.mfo.de/occasion/1218/www_view" target="_blank"> Delaunay mesh generation, Oberwolfach workshop on Triangulations </a>:
+    - N/A
+    - 2012
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/Delmesh/Delmesh.pptx" target="_blank"> Talk Slides </a>
+
+  <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/OpHom/OHCP-IAS.pdf" target="_blank"> Computing homology cycles with certified geometry, Computational Topology workshop</a> <a href="http://www.fields.utoronto.ca/programs/scientific/11-12/discretegeom/wksp_comptop/" target="_blank">, Fields Institute</a>:
+    - N/A
+    - 2011
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/OpHom/OHCP-IAS.pdf" target="_blank"> Talk Slides </a>
+
+  <a href="http://www.math.ias.edu/seminars/abstract?event=43554" target="_blank">  Institute of Advanced Studies </a>:
+    - Princeton
+    - 2012
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/OpHom/OHCP-IAS.pdf" target="_blank"> Talk Slides </a>
+
+  <a href="http://www.siam.org/meetings/gdspm11/invited.php" target="_blank"> Computational geometry and topology meet geometric modeling, SIAM-GD </a>:
+    - N/A
+    - 2011
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/SIAM-GD11/SIAM-GD11.pptx" target="_blank"> Talk Slides </a>
+
+  <a href="http://www.sandia.gov/imr/Speakers.html" target="_blank">Delaunay refinement and its localization for meshing, IMR </a>:
+    - N/A
+    - 2011
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/IMR11/IMR11.pptx" target="_blank"> Talk Slides </a>
+  
+  <a href="http://www.cse.iitd.ac.in/~amitk/walcom/" target="_blank"> Geometry and topology from point cloud data, WALCOM </a>:
+    - N/A
+    - 2011
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/paper/PCD/PCD.pdf" target="_blank"> Talk Slides </a>
+
+  <a href="https://projects.cs.dal.ca/cccg2014/programme.html" target="_blank"> Computing homology cycles with certified geometry, Workshop on Geometric Computing, IIT Delhi </a>:
+    - N/A
+    - Nov. 2010
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/paper/homology-generators/talk.pdf" target="_blank"> Talk Slides </a>
+
+  <a href="http://www.birs.ca/birspages.php?task=displayevent&event_id=09w5112" target="_blank"> Cut locus and topology from point data, BIRS workshop on data analysis </a>:
+    - N/A
+    - March 09
+    - N/A
+
+  <a href="http://www.birs.ca/birspages.php?task=eventvideos&event_id=09w5119" target="_blank"> Lifting the curse of slivers from surface reconstruction (Video)</a> , BIRS workshop on Computational Mathematics on Discrete Surfaces :
+    - N/A
+    - February 09
+    - N/A
+
+  Computing handles and tunnels in 3D models, Colloquium, WUSTL:
+    - N/A
+    - February 08
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/talk/ht.ppt" target="_blank"> Talk Slides </a>
+
+  <a href="http://people.cs.uchicago.edu/~niyogi/conference/index.html" target="_blank">Geometric and topological approaches to data analysis</a>:
+    - N/A
+    - October, 2007
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/paper/extract-manifold/talk.pdf" target="_blank"> Talk Slides </a>
+
+  <a href="http://www-sop.inria.fr/geometrica/collaborations/geotopal/" target="_blank"> GeoTopAl </a>:
+    - N/A
+    - 2007
+    - N/A
+
+  <a href="http://www.isical.ac.in/~isaac06/" target="_blank"> ISAAC </a>:
+    - N/A
+    - 2006
+    - N/A
+
+  <a href="http://www.lorentzcenter.nl/lc/web/2006/20060306/program.php3?wsid=169" target="_blank">  Tessellations in the Sciences, Lorentz Center </a>:
+    - Lieden Univ. 
+    - March 2006 
+    - N/A
+
+  15th Fall workshop on Computational Geometry:
+    - N/A
+    - 2005
+    - N/A
+
+  <a href="http://geometry.poly.edu/realworld/Seminars/tamal.html" target="_blank"> Othmer Institute seminar </a>:
+    - N/A
+    - 2005
+    - N/A
+
+  <a href="http://www.dis.uniroma1.it/~algo02" target="_blank">ALGO</a>:
+    - N/A
+    - 2002
+    - N/A
+
+  <a href="http://www-sop.inria.fr/prisme/ECG/workshop/final" target="_blank"> ECG Final Workshop </a>:
+    - N/A
+    - 2003
+    - N/A
+
+  DIMACS workshop on Surface Reconstruction:
+    - N/A
+    - N/A
+    - N/A
+
+  DIMACS workshop on computer aided design and manufacturing:
+    - N/A
+    - N/A
+    - N/A
+
+  Conference on Algebraic Topological Methods in Computer Science:
+    - Department of Mathematics Stanford University
+    - July 30 - August 3, 2001
+    - N/A
+
+  Colloquiam:
+    - Department of Computer Science Univ. of Notre Dame
+    - September, 2004
+    - N/A
+  
+  <a href="http://www-or.amp.i.kyoto-u.ac.jp/algo-eng/seminar/ws001030_abs.html" target="_blank"> Workshop on Algorithm Engineering as a New Paradigm, RIMS </a>:
+    - Kyoto University, Kyoto, Japan
+    - Oct 30 - Nov 2, 2000
+    - N/A
+  
+  Solid Modeling Technology and Applications, SME:
+    - Detroit, MI
+    - Nov. 16-17,  2000
+    - N/A
+
+
+
+
+

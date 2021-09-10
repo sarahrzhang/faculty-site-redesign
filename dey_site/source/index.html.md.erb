@@ -1,0 +1,17 @@
+---
+title: Tamal K. Dey
+---
+<% # Getting data from index_data.yml %>
+<% source = data.index_data %>
+<div class="container center" markdown=1>
+<%= source.title %>
+<img class="resize" src="/images/tamaldey.jpg" alt="Tamal Dey"><br><br>
+<%= source.honors %>
+<%= source.education_header %>
+<% # Create partial table for education data %>
+<%= partial 'partials/table', locals: {:source => source.education} %>
+<%= source.teaching %>
+<%= source.courses %>
+<%= source.books %>
+<%= source.more_books %>
+</div>

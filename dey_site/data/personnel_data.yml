@@ -1,0 +1,39 @@
+# Research Page / Personnel
+title: >
+  # RESEARCH PERSONNEL
+c_title: >
+  ## Current Personnel
+# Table for current personnel
+current_personnel:
+  Jiayuan Wang, PhD: []
+  Tianqi Li, PhD: []
+  <a href="http://web.cse.ohio-state.edu/~mandal.25/" target="_blank">Sayan Mandal</a>, PhD: []
+  Cheng Xin, PhD: []
+  <a href="http://web.cse.ohio-state.edu/~slechta.3/" target="_blank">Cheng Xin</a>, PhD: []
+  Tao Hou, PhD: []
+  Soham Mukherjee, PhD: []
+p_title: >
+  ## <br>Past Personnel
+# Table for past personnel
+past_personnel:
+  Alfred Rossi, post-doc: []
+  Mickael Buchet, post-doc, currently at Tohoku Univ., Japan: []
+  Ramsay Dyer, post-doc, currently at INRIA, France: []
+  Hyuckje Woo, Post-doc, Prof. KINST, Korea: []
+  Joachim Giesen, Post-doc, Prof. U. Jena, Germany, post-doc: []
+  Dayu Shi, Phd, Google: []
+  Lei Wang, Phd, Google: []
+  Andrew Slatton, Phd: []
+  Fengtao Fan, Phd, Google: []
+  Oleksiy Busaryev, PhD, Google: []
+  Kuiyu Li, PhD, post-doc at Texas A&M: []
+  Pawas Ranjan, PhD: []
+  <a href="https://jalevine.bitbucket.io//" target="_blank">Joshua Levine</a>, PhD, post-doc at U. Utah, Prof. U. of Arizona: []
+  Jian Sun, PhD, post-doc at Stanford and Princeton, Prof. Tsinghua U., China: []
+  Tathagata Ray, PhD, Prof. BITS, Pilani, India: []
+  Samrat Goswami, PhD, post-doc at UT-Austin: []
+  Wulue Zhao, PhD: []
+  James Hudson, PhD, Prof. at Swansee U.: []
+  Naveen Leekha, Masters, NVIDA: []
+  Luke Molnar, Masters: []
+  

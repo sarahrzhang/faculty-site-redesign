@@ -1,0 +1,12 @@
+# Professional Activities Home Page
+title: >
+  # PROFESSIONAL ACTIVITIES
+# Activities page intro
+introduction: |
+  Find out about my professional activities by navigating through the links below.
+# Links to Dey's activity pages
+buttons: |
+  <a class= "black-button" href="program_committee_member.html" target="_self">Program Committee Member</a>
+  <a class= "black-button" href="invited_talks.html" target="_self">Invited Talks</a>
+  <a class= "black-button" href="other_activities.html" target="_self">Other Activities</a>
+  

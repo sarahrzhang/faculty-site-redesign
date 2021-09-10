@@ -1,0 +1,101 @@
+# All other publications
+title: >
+  # Other Publications
+# List of Tamal's book chapters and reports
+book_chapters_reports: |
+  ### Book Chapters/Reports
+  - T. K. Dey. [Sample based geometric modeling.](https://web.cse.ohio-state.edu/~dey.8/paper/sbgm/sbgm.pdf)  AMS/DIMACS volume on Computer-Aided Design and Manufacturing, eds Dutta, Janardan, Smid. To appear.
+  - T. K. Dey. [Curve and surface reconstruction.](http://www.cse.ohio-state.edu/~tamaldey/paper/book/recon.ps.gz) Chapter in Handbook of Discrete and Computational Geometry, Goodman and O' Rourke eds., CRC press, 2nd edition.
+  - One of the authors of [Emerging Challenges in Computational Topology.](http://www.cse.ohio-state.edu/~tamaldey/paper/topowork/paper.ps.gz) *(A NSF report), 1999.*
+  - T. K. Dey, H. Edelsbrunner and S. Guha. [Computational Topology.](http://www.ics.uci.edu/~eppstein/gina/DeyEdelsbrunnerGuha.ps.Z) *Advances in Discrere and Computational Geometry*, eds. B. Chazelle, J. E. Goodman and R. Pollack. Contemporary Mathematics, AMS, Providence, 1998.
+  - T. K. Dey. Section 13.4 on polyhedra of CRC Handbook of Discrete and Combinatorial Mathematics, Ken Rosen, Editor, CRC press (2000).
+# List of surface reconstruction publications
+surface_reconstruction: |
+  ### Surface Reconstructions
+  - T. K. Dey and S. Goswami. Provable surface reconstruction from noisy samples.  Proc. 20th  ACM Sympos. Comput. Geom. (2004), 330--339.  [Extended version.](http://www.cse.ohio-state.edu/~tamaldey/paper/rcocone/rcocone.pdf
+  - T. K. Dey and S. Goswami. [Tight Cocone: A water-tight surface reconstructor.](http://www.cse.ohio-state.edu/~tamaldey/paper/tcocone/tcocone.pdf)  *Proc. 8th ACM Sympos. Solid Modeling Applications (2003), 127--134.* Journal version in *J. of Computing and Infor. Sci. Engin.* Vol. 30 (2003), 302--307.
+  - T. K. Dey, J. Giesen, S. Goswami and W. Zhao. [Shape dimension and approximation from samples.](http://www.cse.ohio-state.edu/~tamaldey/paper/dimension/dim.pdf) *Disctere & Comput. Geom.*, vol 29, 419--434 (2003).
+  - N. Amenta, S. Choi, T. K. Dey and N. Leekha. [A simple algorithm for homeomorphic surface reconstruction.] (http://www.cse.ohio-state.edu/~tamaldey/paper/recon/simple-reconstruct.pdf) Intl. Journal on Computational Geometry & Applications, vol. 12, (2002), 125--141.
+  - T.  K. Dey and J. Giesen. [Detecting undersampling in surface reconstruction.](http://www.cse.ohio-state.edu/~tamaldey/paper/undsamp/undsamp.pdf)  Proc. 17th ACM Sympos. Comput. Geom. (2001), 257--263. Journal version in Discrete and Comput. Geom. - The Goodman-Pollack Festschrift (B. Aronov, S. Basu, J. Pach, M. Sharir, eds.), Algorithms and Combinatorics Series, Springer-Verlag, Berline, 2003, to appear.
+  - T.  K. Dey, J. Giesen and J. Hudson. [Delaunay based shape reconstruction from large data.](http://www.cse.ohio-state.edu/~tamaldey/paper/large/large.pdf) *Proc. IEEE Symposium in Parallel and Large Data Visualization and Graphics*, (2001), 19--27.
+  - T.  K. Dey, J. Giesen, Samrat Goswami, J. Hudson, R. Wenger and W. Zhao. [Undersampling and oversampling in sample based shape modeling.](http://www.cse.ohio-state.edu/~tamaldey/paper/vis/vis.pdf) Proc. IEEE Visualization 2001, (2001), 83--90.
+  - T.  K. Dey, S. Funke and E. Ramos.  [Surface reconstruction in almost linear time under locally uniform sampling.](http://www.cse.ohio-state.edu/~tamaldey/paper/recon-linear/surf.ps.gz) 17th European Workshop on Comput. Geom., Berlin, Germany, (2001).
+  - T.  K. Dey, J. Giesen and W. Zhao. [Robustness issues in surface reconstruction.](http://www.cse.ohio-state.edu/~tamaldey/paper/recon-robust/iccs.ps.gz) Proc. Intl. Conf. Comput. Sci., San Francisco, California, May 28-30, (2001).
+  - T. K. Dey, J. Giesen, N. Leekha and R. Wenger. [Detecting boundaries for surface reconstruction using co-cones.](http://www.cse.ohio-state.edu/~tamaldey/paper/boundary/boundary.pdf.gz) Intl. J. Computer Graphics & CAD/CAM, vol. 16, (2001), 141--159.
+  - H-L. Cheng, T. K. Dey, H. Edelsbrunner and J. Sullivan. [Dynamic skin triangulation.](http://www.cse.ohio-state.edu/~tamaldey/paper/skin/paper.ps.gz) *Discrete Comput. Geom.*, vol. 25, (2001),  525--568.
+  - S. W. Cheng and T. K. Dey. [Improved construction of Delaunay based contour surfaces.](http://www.cse.ohio-state.edu/~tamaldey/paper/lofting/paper.ps.gz) *Proc. ACM Sympos. Solid Modeling and Applications 99 ,1999, 322-323.* 
+# List of medial axis publications
+medial_axis: |
+  ### Medial axis
+  - T. K. Dey and W. Zhao. [Approximate medial axis as a Voronoi subcomplex.](http://www.cse.ohio-state.edu/~tamaldey/paper/medial/medial-ex.pdf) CAD, Vol. 36, Issue 2 (2003), 195--202. Preliminary version in Proc. 7th ACM Sympos. Solid Modeling Applications, 2002, 356--366.
+  - T. K. Dey and W. Zhao. Approximating the Medial Axis from the Voronoi Diagram with a Convergence Guarantee. R. Mohring and R. Raman (Eds.) ESA 2002, LNCS 2461, 387--398. An [Extended Version] (http://www.cse.ohio-state.edu/~tamaldey/paper/medial.pdf) version to appear in *Algorithmica*, vol. 38, 2004.
+# List of shape features publications
+shape_features: |
+  ### Shape Features
+  - T. K. Dey, J. Giesen and S. Goswami. Shape segmentation and matching with flow discretization.  Proc. Workshop Algorithms Data Strucutres (WADS 03), LNCS 2748, F. Dehne, J.-R. Sack, M. Smid Eds., 25--36.
+  - T. K. Dey, J. Giesen and S. Goswami. Shape segmentation and matching from noisy point clouds. Proc. Eurographics Sympos. Point -Based Graphics (2004), M. Alexa and S. Rusinkiewicz (eds).
+# List of surve reconstruction publications
+curve_reconstruction: |
+  ### Curve Reconstruction
+  - T. K. Dey and R. Wenger.  [Fast reconstruction of curves with sharp corners.](http://www.cse.ohio-state.edu/~tamaldey/paper/sharp-proof/paper.ps.gz) Internat. J. Comput. Geom. Applications., vol. 12 (2002), 353--400.
+  - T. K. Dey and R. Wenger. [Reconstructing curves with sharp corners.](http://www.cse.ohio-state.edu/~tamaldey/paper/sharp/paper.ps.gz) Computational Geometry: Theory and Applications, vol. 19, (2001), 89--99.
+  - T. K. Dey, K. Mehlhorn and E. Ramos. [Curve reconstruction: connecting dots with good reason.](http://www.cse.ohio-state.edu/~tamaldey/paper/opencurve/paper.ps.gz) *Computational Geometry: Theory and Applications, Vol. 15, No. 4, 2000, 229--244.*
+  - T. K. Dey and P. Kumar. [A simple provable algorithm for curve reconstruction.](http://www.cse.ohio-state.edu/~tamaldey/paper/curve/paper.ps.gz) *Proc. 10th. ACM-SIAM Symposium on Discrete Algorithms (SODA '99) , 1999, 893--894.*
+# List of mesh simplification decimation publications
+mesh_simplification_decimation: |
+  ### Mesh Simplification and Decimation
+  - S.-W. Cheng, T. K. Dey and  S.-H. Poon. [Hierarchy of surface models and irreducible triangulatiion.](http://www.cse.ohio-state.edu/~tamaldey/paper/contract/hier.pdf) *Computational Geometry: Theory & Applications*, Vol. 27, No. 2 (2004), 135--150.
+  - T. K. Dey, J. Giesen and J. Hudson. [Sample shuffling for quality hierarchic surface meshing.](http://www.cse.ohio-state.edu/~tamaldey/paper/shuffling/shuffling.ps.gz) *Proc. 10th Mehsing Roundtable Conf.*, Newport Beach, California, (2001), 143--154.
+  - T. K. Dey, J. Giesen and J. Hudson. [Decimating samples for mesh simplification.](http://www.cse.ohio-state.edu/~tamaldey/paper/decimate/decimate.ps.gz) *Proc. 13th Canadian Conference on Computational Geometry*, (2001), 85--88.
+  - T. K. Dey, H. Edelsbrunner, S. Guha and D. Nekhayev. [Topology preserving edge contraction.](http://www.cse.ohio-state.edu/~tamaldey/paper/simplify/paper.ps.gz) Publications de l' Institut Mathematique (Beograd), Vol. 60 (80), 23--45, 1999.
+# List of rendering publications
+rendering: |
+  ### Rendering
+  - T. K. Dey and J. Hudson. [PMR: point to mesh rendering, a feature-based approach.](http://www.cse.ohio-state.edu/~tamaldey/paper/render/render.pdf) Proc. IEEE Visualization 2002, (2002), 155--162.
+# List of computational topology publications
+computational_topology: |
+  ### Computational Topology
+  - S.-W. Cheng, T. K. Dey, E. Ramos and T. Ray. [Sampling and meshing a surface with guaranteed topology and geometry.](http://www.cse.ohio-state.edu/~tamaldey/paper/surfmesh/surfmesh.pdf) Proc. 20th Sympos. Comput. Geom. (2004), to appear.
+  - T. K. Dey, J. Giesen, M. John. [Alpha-shapes and flow shapes are homotopy equivalent.](http://www.cse.ohio-state.edu/~tamaldey/paper/homeq/homeq.pdf) *Proc. Sympos. Theory Computing (STOC 2003)*, 493--502.
+  - T. K. Dey, J. Giesen and S. Goswami. [Shape segmentation and matching with flow discretization.](http://www.cse.ohio-state.edu/~tamaldey/paper/matching/feature.pdf) Workshop on Data Structures and Algorithms (WADS 2003), LNCS 2748, 25--36.
+  - T. K. Dey, H. Edelsbrunner, S. Guha and D. Nekhayev. [Topology preserving edge contraction.](http://www.cse.ohio-state.edu/~tamaldey/paper/simplify/paper.ps.gz) *Publications de l' Institut Mathematique (Beograd), Vol. 60 (80), 23--45, 1999.*
+  - T. K. Dey, H. Edelsbrunner and S. Guha. [Computational Topology.](http://www.ics.uci.edu/~eppstein/gina/DeyEdelsbrunnerGuha.ps.Z) *Invited paper in Advances in Discrere and Computational Geometry*, eds. B. Chazelle, J. E. Goodman and R. Pollack. Contemporary Mathematics, AMS, Providence, 1998.
+  - T. K. Dey and S. Guha. [Computing homology groups of simplicial complexes in $R^3$.](http://www.cse.ohio-state.edu/~tamaldey/paper/3dhom/paper.ps.gz) *Journal of ACM*, vol. 45, No. 2, (1998), 266-287. Preliminary version in *28th* ACM STOC , 1996, 398-407.
+  - T. K. Dey and S. Guha. [Transforming curves on surfaces.](http://www.cse.ohio-state.edu/~tamaldey/paper/contract/paper.ps.gz) *Journal of Computer and System Sciences*, vol. 58, 1999, 297--325. Preliminary version in *IEEE FOCS*, 1995, 266-274.
+  - T. K. Dey. Optimal algorithms to detect null-homologous cycles on 2-manifolds. *Intl. Journal of Computational Geometry & Applications*, Vol. 7, No. 3, (1997), 167--174. Preliminary version in *5th CCCG*, 1993, 273-278.
+  - T. K. Dey and H. Schipper. A new technique to compute polygonal schema for 2-manifolds with application to null-homotopy detection. *Discrete & Computational Geometry*, Vol. 14, 93--110 (1995). Preliminary version in *10th SoCG*, 1994, 277-284.
+# List of triangulations mesh generation publications
+triangulations_mesh_generation: |
+  ### Triangulations/Mesh Generation
+  - S.-W. Cheng, T. K. Dey, E. Ramos and T. Ray. [Sampling and meshing a surface with guaranteed topology and geometry.](http://www.cse.ohio-state.edu/~tamaldey/paper/surfmesh/surfmesh.pdf) Proc. 20th Sympos. Comput. Geom. (2004), 280--289.
+  - S.-W. Cheng, T. K. Dey, E. Ramos and T. Ray. Quality meshing for polyhedra with small angles. Proc. 20th Sympos. Comput. Geom. (2004), 290--299. [Extended version.](http://www.cse.ohio-state.edu/~tamaldey/paper/qualmesh/qualmesh.pdf)
+  - S.-W. Cheng and T. K. Dey. [Quality meshing with weighted Delaunay refinement.](http://www.cse.ohio-state.edu/~tamaldey/paper/sliver-bound/sliver.pdf) *SIAM J. Computing*, Vol. 33 (2003), 69--93.
+  - T. K. Dey, J. Giesen and J. Hudson. [Sample shuffling for quality hierarchic surface meshing.](http://www.cse.ohio-state.edu/~tamaldey/paper/shuffling/shuffling.ps.gz) *Proc. 10th Mehsing Roundtable Conf.*, Newport Beach, California, (2001), 143--154.
+  - S.-W. Cheng, T. K. Dey, H. Edelsbrunner, M. A. Facello and S.-H. Teng. [Sliver exudation.](http://www.cse.ohio-state.edu/~tamaldey/paper/sliver/paper.ps.gz) J. ACM, Vol. 47, (2000), 883--904.
+  - S.-W. Cheng and T. K. Dey. [Approximate minimum weight Steiner triangulation in three dimensions](http://www.cse.ohio-state.edu/~tamaldey/paper/mwst/paper.ps.gz) . *Proc. 10th ACM-SIAM Symposium on Discrete Algorithms* , (1999).
+  - T. K. Dey, A. Roy and N. R. Shah. Approximating geometric objects through topological triangulations. Proc. 17th. FST&TCS Conference, Lecture Notes in Computer Science 1346, 6-21 (1997).
+  - T. K. Dey, M. Dillencourt, S. Ghosh and J. Cahil. Triangulating with high connectivity. *Computational Geometry: Theory and Applications*, Vol. 8, No. 1, (1997), 39--56. Preliminary version in *6th CCCG*, 1994, 339-343.
+  - T. K. Dey, C. Bajaj and K. Sugihara. On good triangulations in three dimensions. *Intl. Journal of Computational Geometry & Applications.* Vol. 2 (1992), 75-95.
+  - T. K. Dey, C. Bajaj and K. Sugihara. Delaunay triangulations in three dimensions with finite precision arithmetic. *Computer Aided Geometric Design*, Vol. 9 (1992), 457-470.
+# List of solid modeling publications
+solid_modeling: |
+  ### Solid Modeling
+  - C. Bajaj and T. K. Dey. CSG operations on a MIMD distributed memory machines. *Proc. CSG 94*, Winchester, UK, 13-15 April, 1994.
+  - C. Bajaj and T. K. Dey. [Convex decompositions of polyhedra and robustness.](http://www.cse.ohio-state.edu/~tamaldey/paper/conv/convex-decomp.pdf) *SIAM Journal Computing.* Vol. 21 (1992), 339-364.
+  - T. K. Dey. Triangulation and CSG representation of polyhedra with arbitrary genus. *Proc. 7th ACM Symposium Computational Geometry* New Hampshire, USA, (1991), 364-372.
+  - T. K. Dey, C. Bajaj and K. Sugihara. On good triangulations in three dimensions. *Proc. ACM Symposium on Solid Modeling*, USA, (1991)
+  - C. Bajaj, V. Anupam, T. K. Dey, S. Klinkner, A. Royappa. CREMONA: A graphical editing system for algebraic boundary models. *SIAM Conference on Geometric Design. Tempe, Arizona (1989)*
+# List of computational combinatorial geometry publications
+computational_combinatorial_geometry: |
+  ### Computational/Combinatorial Geometry
+  - B. Aronov and T. K. Dey. [Polytopes in Arrangements](http://www.cse.ohio-state.edu/~tamaldey/paper/manyface/paper.ps.gz) . *Discrete & Computational Geometry*, Vol. 25, (2001), 51--63.
+  - T. K. Dey. Improved bounds for planar k-sets and related problems. *Invited paper in a special issue of Discrete & Computational Geometry, Vol. 19, No. 3, (1998), 373-382.* [Preliminary version](http://www.cse.ohio-state.edu/~tamaldey/paper/kset/paper.ps.gz) *in 37th IEEE FOCS, 1997, 156-161.*
+  - T. K. Dey and J. Pach. [Extremal problems for geometric hypergraphs.](http://www.cse.ohio-state.edu/~tamaldey/paper/gmgraph/paper.ps.gz) *Discrete & Computational Geometry, Vol. 19, No. 4, (1998), 473--484. Preliminary version in ISAAC 96, LNCS 1178, 105-114.*
+  - D. Chithraprasad, S. P. Pal and T. K. Dey. [Visibility with multiple diffuse reflections](http://www.cse.ohio-state.edu/~tamaldey/paper/diffuse/paper.ps.gz). *Computational Geometry:Theory and Applications, Vol. 10, (1998), 187--196.*
+  - B. Aronov, A. Davis, T. K. Dey, S. P. Pal and D. C. Prasad. [Visibility with multiple reflections](http://www.cse.ohio-state.edu/~tamaldey/paper/mvis-spec/paper.ps.gz) . *Discrete & Computational Geometry, Vol. 20, No. 61, (1998), 61--78. Preliminary version in 5th SWAT, 1996, LNCS 1097, 284-295.*
+  - B. Aronov, A. Davis, T. K. Dey, S. P. Pal and D. C. Prasad. [Visibility with one reflection](http://www.cse.ohio-state.edu/~tamaldey/paper/onevis/paper.ps.gz). *Discrete & Computational Geometry, Vol. 19, No. 4, (1998), 553-574. Preliminary version in 11th ACM SoCG, 1995, 316-325.*
+  - T. K. Dey and N. Shah. On counting the number of simplicial complexes in $R^d$. *Computational Geometry: Theory and Applications Vol. 8, No. 5, (1997). Preliminary version in 7th CCCG, 1995, 31-36.*
+  - T. K. Dey and H. Edelsbrunner. Counting triangle crossings and halving planes. *Invited paper in a special issue, Discrete & Computational Geometry, Vol. 12 (1994), 281--289.*
+  - T. K. Dey and N. Shah. Many face complexity in incremental convex arrangements. *Information Processing Letters. Vol. 51, 5, 227--231 (1994).*
+  - T. K. Dey. On counting triangulations in d dimensions. Computational Geometry: *Theory and Applications. Vol. 3 (1993), 315--325.*
+  - C. Bajaj and T. K. Dey. Polygon nesting and robustness. *Information Processing Letters. Vol. 1 (1990), 23-32.*

@@ -1,0 +1,13 @@
+---
+title: Other Activities
+---
+
+<% # Get data from other_activities.yml %>
+<% source = data.other_activities %>
+<% # Reserve a section under css class container %>
+<div class="container center" markdown=1>
+<% # Get the title from the source %>
+<%= source.title %>
+<% # Create partial table for OA data %>
+<%= partial 'partials/table', locals: {:source => source.OA} %>
+</div>

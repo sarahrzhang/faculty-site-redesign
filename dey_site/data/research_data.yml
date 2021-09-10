@@ -1,0 +1,13 @@
+# Research Home Page
+title: >
+  # RESEARCH
+# Research page intro
+introduction: |
+  ### I belong to Theory, Graphics, and TGDA (topology, geometry, data analysis) groups at OSU.
+  Find more about my research by navigating through the links below.
+# Links to Dey's research pages
+buttons: |
+  <a class= "black-button" href="personnel.html" target="_self">Personnel</a>
+  <a class= "black-button" href="projects.html" target="_self">Projects</a>
+  <a class= "black-button" href="software.html" target="_self">Software</a>
+  

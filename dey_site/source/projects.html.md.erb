@@ -1,0 +1,13 @@
+---
+title: Projects
+---
+
+<% # Get data from projects_data.yml %>
+<% source = data.projects_data %>
+<div class="container center" markdown=1>
+<%= source.title %>
+<%= source.project_1_header %>
+<% # Create partial table for project 1 data %>
+<%= partial 'partials/table', locals: {:source => source.project_1} %>
+<%= source.project_2_3 %>
+</div>

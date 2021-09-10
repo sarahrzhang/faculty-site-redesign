@@ -1,0 +1,19 @@
+---
+title: Other Publications
+---
+
+<% # Get data from other_publications_data.yml %>
+<% source = data.other_publications_data %>
+<div class="container left" markdown=1>
+<%= source.title %>
+<% # add all other publications content as lists %>
+<%= source.book_chapters_reports %>
+<%= source.surface_reconstruction %>
+<%= source.medial_axis %>
+<%= source.shape_features %>
+<%= source.curve_reconstruction %>
+<%= source.mesh_simplification_decimation %>
+<%= source.rendering %>
+<%= source.computational_topology %>
+<%= source.triangulations_mesh_generation %>
+</div>

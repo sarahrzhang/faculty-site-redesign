@@ -1,0 +1,15 @@
+<% # generate table %>
+<table>
+<tbody> 
+<% source.each do |key, value| %>
+    <tr>
+        <% # add each key into table row %>
+        <td> <%= key %> </td> 
+        <% # add any and all values of key each into row %>
+    <% value.each do |data| %>
+        <td> <%= data %> </td> 
+    <% end %>
+    </tr>
+<% end %>
+</tbody>
+</table>

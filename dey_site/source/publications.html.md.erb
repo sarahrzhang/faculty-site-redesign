@@ -1,0 +1,16 @@
+---
+title: Publications
+---
+<% # Get data from publications_data.yml %>
+<% source = data.publications_data %>
+<div class="container center" markdown=1>
+<%= source.title %>
+<% # add books %>
+<%= source.book1_title %>
+<% # Create partial table for book data %>
+<%= partial 'partials/table', locals: {:source => source.book1} %>
+<%= source.book2_title %>
+<%= partial 'partials/table', locals: {:source => source.book2} %>
+<% # link to other publciations pages %>
+<%= source.more_publications %>
+</div>

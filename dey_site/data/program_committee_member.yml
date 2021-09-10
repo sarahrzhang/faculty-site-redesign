@@ -1,0 +1,83 @@
+# Professional Activities / Program Committee Member
+# Making title for the Program Committee Member page
+title: >
+  # PROGRAM COMMITTEE MEMBER
+# Creating content (Program Committee Member table) for html to parse
+PCM: 
+  SOCG:
+    - <a href="https://socg2012.web.unc.edu/" target="_blank"> 2012 </a> <br><br> <a href="https://eecs.oregonstate.edu/socg19/index.html" target="_blank"> 2019 </a>
+  NASAGEM:
+    - 2007
+
+  ISAAC:
+    - <a href="https://www.isical.ac.in/~isaac06/" target="_blank"> 2006 </a>
+
+  Pacific Graphics:
+    - <a href="http://graphics.im.ntu.edu.tw/pg2006/" target="_blank"> 2006 </a>
+
+  SPM: 
+    - 2004 <br><br> 2005 <br><br> <a href="https://www.rrm.me.uk/" target="_blank"> 2006 </a> <br><br> <a href="http://cg.cs.tsinghua.edu.cn/spm2007/" target="_blank"> 2007 </a> <br><br>  2008 <br><br> <a href="https://archive.siam.org/meetings/gdspm09/" target="_blank"> 2009 </a> <br><br>  2010 <br><br>  <a href="https://archive.siam.org/meetings/gdspm11/" target="_blank"> 2011 </a> <br><br>  2012 <br><br>  2013 <br><br>  <a href="http://spring.mae.cuhk.edu.hk/~smi2014/index.html" target="_blank"> 2014 </a> <br><br>  <a href="https://archive.siam.org/meetings/gdspm15/" target="_blank"> 2015 </a> <br><br>  <a href="https://s3pm.icsi.berkeley.edu/s3pm/spm.html" target="_blank"> 2017 </a>
+
+  SMI: 
+    - <a href="http://smism04.ge.imati.cnr.it/" target="_blank"> 2004 </a> <br><br>  <a href="http://www.shapemodeling.org/" target="_blank"> 2005 </a> <br><br>  <a href="http://www.ifs.tohoku.ac.jp/SMI06/" target="_blank"> 2006 </a> <br><br> <a href="https://smi07.liris.cnrs.fr/" target="_blank"> 2007 </a> <br><br>  2008 <br><br> <a href="http://cgcad.thss.tsinghua.edu.cn/SMI2009/" target="_blank"> 2009 </a> <br><br>  2010 <br><br>  2011 <br><br>  <a href="http://www.shapemodeling.org/" target="_blank"> 2012 </a> <br><br>  2013 <br><br>  2014 <br><br>  <a href="http://www-rech.telecom-lille.fr/smi2015/" target="_blank"> 2015 </a> <br><br>  <a href="https://s3pm.icsi.berkeley.edu/s3pm/smi.html" target="_blank"> 2017 </a>
+
+  Point Graphics:
+    - <a href="https://cgl.ethz.ch/events/pbg/cfp.html" target="_blank"> 2004 </a> <br><br>  <a href="https://gfx.cs.princeton.edu/pbg05/" target="_blank"> 2005 </a> <br><br>  <a href="https://cgl.ethz.ch/events/pbg/06/" target="_blank"> 2006 </a> <br><br>  <a href="https://cgl.ethz.ch/events/pbg/07/" target="_blank"> 2007 </a> <br><br>  <a href="https://cgl.ethz.ch/events/pbg/08/" target="_blank"> 2008 </a>
+  
+  
+  3DPVT:
+    - <a href="http://www.umiacs.umd.edu/conferences/3dpvt04/" target="_blank"> 2004 </a><br><br>  2008
+  
+  SOCG:
+    - 1998 <br><br> <a href="https://www.cs.umd.edu/researcharea/Theory/socg03" target="_blank"> 2003 </a>
+
+  Solid Modeling:
+    - 2003
+
+  SODA:
+    - <a href="https://archive.siam.org/meetings/da03/" target="_blank"> 2003 </a><br><br> <a href="https://archive.siam.org/meetings/da14/" target="_blank"> 2014 </a>
+
+  FSTTCS:
+    - 1995 <br><br> 1996 <br><br>  1997 <br><br>  2003
+  
+  WALCOM:
+    - <a href="https://www.isical.ac.in/~walcom/" target="_blank"> 2009 </a>
+  
+  SGP:
+    - <a href="http://sgp09.mi.fu-berlin.de/" target="_blank"> 2009 </a> <br><br>  <a href="https://sgp2010.liris.cnrs.fr/" target="_blank"> 2010 </a> <br><br>  <a href="https://sgp2011-lgg.epfl.ch/Home.html" target="_blank"> 2011 </a> <br><br>  <a href="https://www.ioc.ee/sgp12/" target="_blank"> 2012 </a> <br><br>  2013 <br><br>  <a href="http://www.cs.cf.ac.uk/sgp2014/" target="_blank"> 2014 </a> <br><br>  <a href="http://www.geometrie.tugraz.at/sgp2015/" target="_blank"> 2015 </a> <br><br>  2016 <br><br>  <a href="http://geometry.cs.ucl.ac.uk/SGP2017/" target="_blank"> 2017 </a>
+
+  ISVD:
+    - 2009 <br><br>  <a href="http://bioinf.spbau.ru/isvd2013/" target="_blank"> 2013 </a>
+
+  GMP:
+    - 2010 <br><br> 2012
+
+  SoCG Video:
+    - <a href="https://www.sci.utah.edu/socg2010/" target="_blank"> 2010 </a>  
+  
+  TopoInfoVis:
+    - 2011
+
+  CAD graphics:
+    - 2011
+  
+  EuroCG:
+    - <a href="https://www.ibr.cs.tu-bs.de/alg/eurocg13/" target="_blank"> 2013 </a>  
+  
+  SWAT:
+    - <a href="http://algolog.compute.dtu.dk/swat2014/" target="_blank"> 2014 </a>  
+
+
+
+
+    
+  
+
+
+
+
+  
+
+
+
+

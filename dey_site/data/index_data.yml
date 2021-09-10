@@ -1,0 +1,53 @@
+# Homepage / About Tamal Dey
+title: >
+  # ABOUT PROFESSOR DEY
+education_header: >+
+  ## EDUCATION
+# Table for Dey's Degrees
+education: 
+  Post-Doctorate: 
+  - University of Illinois, U-C
+  - 1991-1992
+  PhD:
+  - Purdue University 
+  - 1988-1991
+  M.E.:
+  - SC, Bangalore
+  - 1985-1987
+  B.E.:
+  - Jadavpur University, Calcutta
+  - 1981-1985
+# Email and University Dey has taught
+teaching: |
+  ## TEACHING
+  The Ohio State University, Department of Computer Science & Engineering <br>
+  <br> <a class="teaching" href="mailto:tamaldey@cse.ohio-state.edu" target="_blank">OSU Email</a> <br>
+  <br> Purdue University, Department of Computer Science <br>
+  <br> <a class="teaching" href="mailto:tamaldey@purdue.edu" target="_blank">Purdue Email</a>
+# Links for courses Dey has taught
+courses: |
+  ## COURSES
+  <span class="courses">Subdivision surfaces (888) (Winter 2000)</span>
+  <span class="courses">Shape Modeling in graphics and visualization (Spring 2000)</span> <br>
+  <a class="courses" href="https://web.cse.ohio-state.edu/~dey.8/course/788/" target="_blank">Sample Based Modeling for Graphics and Visualization (Autumn 2005)</a> 
+  <a class="courses" href="https://web.cse.ohio-state.edu/~dey.8/course/625/" target="_blank">Formal Languages and Automata Theory (Winter 2009)</a> 
+  <br> <a class="courses" href="https://web.cse.ohio-state.edu/~dey.8/course/6331/" target="_blank">CSE 6331: Algorithms (Autumn 2012)</a> 
+  <span class="courses">CSE 2331: Data Structures & Algorithms (Autumn 2015)</span> 
+  <br> <a class="courses" href="https://web.cse.ohio-state.edu/~dey.8/course/CTDA/CTDA.html" target="_blank">CSE 5339: Computational Topology (Autumn 2013) and CSE 5559: Data Analysis (Spring 2017)</a>
+  <a class="courses" href="https://web.cse.ohio-state.edu/~dey.8/course/784/syllabus.html" target="_blank">Geometric Modeling (5543) (Spring 2018)</a> 
+  <br> <a class="courses" href="https://web.cse.ohio-state.edu/~dey.8/course/6332/" target="_blank">CSE 6332: Advanced Algorithms (Spring 2019)</a>  
+# Links to books Dey has published
+books: |
+  ## BOOKS
+  <a href="https://web.cse.ohio-state.edu/~dey.8/book/recon/preface.pdf" target="_blank"> 
+  <img class="resize_books" src="/images/curve_and_surface_reconstruction.jpeg" alt="Book1"></a>
+  <a href="https://web.cse.ohio-state.edu/~dey.8/meshbook.html" target="_blank"> 
+  <img class="resize_books" src="/images/delaunay_mesh_generation.jpg" alt="Book2"></a>
+# Link to more publications
+more_books: >
+  <a class="black-button" href="publications.html">More Info</a>
+# Link to Fellowships
+honors: |
+  <span class="red-button">IEEE Fellow</span>
+  <a class= "red-button" href="https://www.acm.org/media-center/2018/december/fellows-2018" target="_blank">ACM Fellow</a>
+  <a class="red-button" href="http://solidmodeling.org/awards/sma-fellows/sma-fellows-2019/" target="_blank">SMA Fellow</a>

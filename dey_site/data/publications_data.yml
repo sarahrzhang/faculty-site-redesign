@@ -1,0 +1,31 @@
+# Publications
+title: >
+  # Publications
+# Info on Tamal's 1st Book
+book1_title: >
+  ## Curve and Surface Reconstruction: Algorithms with Mathematical Analysis
+book1:
+  Cover:
+    - <a href="https://web.cse.ohio-state.edu/~dey.8/book/recon/preface.pdf" target="_blank"> <img class="resize_books" src="/images/curve_and_surface_reconstruction.jpeg" alt="Book1"></a>
+  Author: 
+    - Tamal. K. Dey
+  Publisher: 
+    - Cambridge University Press, October 2006
+  Preview: 
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/book/recon/preface.pdf" target="_blank">Preface and Contents</a> <br><a href="http://www.cse.ohio-state.edu/~tamaldey/book/recon/chapter3and4.pdf" target="_blank">Chapter 3 and Chapter 4</a>
+# Info on Tamal's 2nd Book
+book2_title: >
+  ## <br>Delaunay Mesh Generation
+book2: 
+  Cover: 
+    - <a href="https://web.cse.ohio-state.edu/~dey.8/meshbook.html" target="_blank"> <img class="resize_books" src="/images/delaunay_mesh_generation.jpg" alt="Book2"></a>
+  Authors: 
+    - Siu-Wing Cheng, Tamal K. Dey, Jonathan R. Shewchuk
+  Publisher: 
+    - CRC Press, December 2012
+  Preview: 
+    - <a href="http://www.cse.ohio-state.edu/~tamaldey/meshbook.html" target="_blank">See details including sample chapters</a>
+# Link to Tamal's key and other publications
+more_publications: |
+  <a class= "black-button" href="https://www.cs.purdue.edu/homes/tamaldey/papers.html" target="_blank">Key Publications</a>
+  <a class= "black-button" href="other_publications.html" target="_self">Other Publications</a>

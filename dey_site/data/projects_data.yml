@@ -1,0 +1,23 @@
+# Research Page / Projects
+title: >
+  # RESEARCH PROJECTS
+# table for Project 1
+project_1_header: >
+  ### [Computational Geometry and Topology in Geometric Modeling and Graphics](https://web.cse.ohio-state.edu/~dey.8/geohome.html)
+project_1:
+  Reconstruction: 
+    - <a href="https://web.cse.ohio-state.edu/~dey.8/curverecon.htm" target="_blank">Curve reconstruction</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/surfrecon.htm" target="_blank">Surface reconstruction</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/SingularCocone/singularcocone.html" target="_blank">Non-smooth, non-manifold surface reconstruction</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/isotopic.html" target="_blank">Boundary reconstruction</a>
+  <a href="https://web.cse.ohio-state.edu/~dey.8/mesh.html" target="_blank">Meshing</a>:
+    - <a href="https://web.cse.ohio-state.edu/~dey.8/mesh-volume.html" target="_blank">Polyhedra</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/mesh-smooth.html" target="_blank">Smooth surface</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/mesh-smooth.html" target="_blank">Remeshing</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/mesh-iso.htm" target="_blank">Isosurface</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/mesh-psc.html" target="_blank">Piecewise smooth complexes</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/LocDel.html" target="_blank">Localized Delaunay refinement</a>
+  Homology features: 
+    - <a href="https://web.cse.ohio-state.edu/~dey.8/handle/hantun.html" target="_blank">Handle and tunnel loops</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/homology.html" target="_blank">Shortest homology bassis</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/homology.html" target="_blank">Optimal homologous cycles</a>
+  Shape features:
+    - <a href="https://web.cse.ohio-state.edu/~dey.8/medialaxis.htm" target="_blank">Medial axis</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/cskel.html" target="_blank">Curve skeletons</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/dimensiondetection.htm" target="_blank">Dimension detection</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/segmentation.html" target="_blank">Shape segmentation and matching</a> <br><a href="https://web.cse.ohio-state.edu/~dey.8/normfet.html" target="_blank">Normal and feature approximation</a>
+  Data sparsification:
+    - <a href="https://web.cse.ohio-state.edu/~dey.8/GIC/gic.html" target="_blank">Graph Induced complex</a>
+  Simplification: 
+    - <a href="https://web.cse.ohio-state.edu/~dey.8/decim.htm" target="_blank">Model Simplification</a>
+# Buttons for Project 2 and 3
+project_2_3: |
+  <br><br><a class= "red-button" href="https://web.cse.ohio-state.edu/~dey.8/geometry-papers.htm" target="_self">Computational and combinatorial geometry</a><br><br>
+  <a class= "red-button" href="https://web.cse.ohio-state.edu/~dey.8/topology-papers.htm" target="_self">Computational topology</a>

@@ -1,0 +1,13 @@
+---
+title: Personnel
+---
+
+<% # Getting data from personnel_data.yml %>
+<% source = data.personnel_data %>
+<div class="container center" markdown=1>
+<%= source.title %>
+<%= source.c_title %>
+<%= partial 'partials/table', locals: {:source => source.current_personnel} %>
+<%= source.p_title %>
+<%= partial 'partials/table', locals: {:source => source.past_personnel} %>
+</div>

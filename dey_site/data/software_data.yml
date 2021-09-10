@@ -1,0 +1,39 @@
+# Research Page / Software
+title: >
+  # RESEARCH SOFTWARE
+# Content and links to Dey's software research
+reconstruction: |
+  ### Reconstruction
+  - [Cocone](https://web.cse.ohio-state.edu/~dey.8/cocone.html): Software for surface reconstruction based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/undsamp/paper.pdf.gz).
+  - [AMLS](http://www.cse.ohio-state.edu/~tamaldey/amls.html) software for noisy point cloud smoothing based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/amls/amls-extend.pdf).
+  - [SingularCocone](https://web.cse.ohio-state.edu/~dey.8/SingularCocone/singularcocone.html) software for reconstructing surfaces with singular features
+  - [Peel](https://web.cse.ohio-state.edu/~dey.8/Peel.html) software for reconstructing surfaces with boundaries based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/recon-bound/boundary.pdf)
+meshing: |
+  ### Meshing
+  - [DelPSC](https://web.cse.ohio-state.edu/~dey.8/delpsc.html): software for Delaunay meshing of surfaces, volumes, complexes based on [paper](https://web.cse.ohio-state.edu/~dey.8/paper/delpsc/imr07.pdf), [talk slides](http://www.cse.ohio-state.edu/~tamaldey/paper/delpsc/delpsc.ppt), [video](https://web.cse.ohio-state.edu/~dey.8/delpsc/video/)
+  - [LocPSC](https://web.cse.ohio-state.edu/~dey.8/locpsc.html): Localized version of DelPSC, runs faster. based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/locpsc/locpsc.pdf).
+  - [Qualmesh](https://web.cse.ohio-state.edu/~dey.8/qualmesh.html): Software for quality Delaunay meshing of polyhedra based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/qualmesh/qualmesh.pdf).
+  - [SurfRemesh](https://web.cse.ohio-state.edu/~dey.8/surfremesh.html): software for Delaunay meshing of polygonal surfaces based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/remesh/remesh.pdf).
+  - [DelIso](https://web.cse.ohio-state.edu/~dey.8/deliso.html): software for Delaunay meshing of isosurfaces
+  - [LocDel](https://web.cse.ohio-state.edu/~dey.8/locdel-soft.html) software for generating large Delaunay meshes
+homology: |
+  ### Homology Features
+  - [HanTun](https://web.cse.ohio-state.edu/~dey.8/hantun.html) software for computing handle and tunnel loops on surfaces based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/hantun-persist/hantun.pdf), [video](http://www.cse.ohio-state.edu/~tamaldey/paper/hantun-persist/hantun-sig2008.mov)
+  - [ReebHanTun](https://web.cse.ohio-state.edu/~dey.8/handle/ReebHanTun-download/reebhantun.html) software for handle and tunnel loops that does not require 3D tessellation, [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/reeb-hantun/reeb-hantun.pdf), [web-page](https://web.cse.ohio-state.edu/~dey.8/handle/hantun.html)
+  - [ShortLoop](https://web.cse.ohio-state.edu/~dey.8/shortloop.html) software for computing loops in a shortest homology basis based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/pcdloop/pcdloop.pdf).
+  - [PersLoop](http://web.cse.ohio-state.edu/~dey.8/PersLoop/) software for persistent 1-cycles
+sparsification: |
+  ### Data Sparsification
+  - [GIC software](https://web.cse.ohio-state.edu/~dey.8/GIC/GICsoftware/)
+  - [SimpPers software](https://web.cse.ohio-state.edu/~dey.8/SimPers/Simpers.html) (computes persistence for simplicial maps)
+  - [SimBa software](http://web.cse.ohio-state.edu/~dey.8/SimBa/Simba.html) (computes persistence of Rips filtration efficiently)
+shape: |
+  ### Shape Features
+  - [Medial](https://web.cse.ohio-state.edu/~dey.8/cocone.html): Software for 3D medial axis based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/medial/medial-ex.pdf)
+  - [SegMatch](https://web.cse.ohio-state.edu/~dey.8/segmatch.html): Software for shape segmentation and shape matching based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/matching/feature.pdf)
+  - [NormFet](https://web.cse.ohio-state.edu/~dey.8/normfet.html) software for normal and feature size estimation from point cloud based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/norfet/paper.pdf). 
+  - [CurveSkel](https://web.cse.ohio-state.edu/~dey.8/cskel.html) software for curve skeleton of 3D shapes based on [paper](https://web.cse.ohio-state.edu/~dey.8/paper/curve-skeleton/cskel.pdf).
+gathan: >
+  ### Gathan software for curve reconstruction based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/sharp/paper.ps.gz).
+near: >
+  ### [Nearest neighbor curve reconstruction Applet](https://web.cse.ohio-state.edu/~dey.8/Crust/) based on [paper](http://www.cse.ohio-state.edu/~tamaldey/paper/curve/paper.ps.gz) and a topology clean up.

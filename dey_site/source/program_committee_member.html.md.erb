@@ -1,0 +1,12 @@
+---
+title: Program Committee Member
+---
+<% # Get data from program_committee_member.yml %>
+<% source = data.program_committee_member %>
+<% # Reserve a section under css class container %>
+<div class="container" markdown=1>
+<% # Get the title from the source %>
+<%= source.title %>
+<% # Create partial table for PCM data %>
+<%= partial 'partials/table', locals: {:source => source.PCM} %>
+</div>

@@ -1,0 +1,213 @@
+/* Selector for headers */
+h1, h2, h3, h4 {
+  text-align: center;
+}
+.header {
+  font-size: 80px;
+  line-height: 1;
+  text-align: center;
+  padding: 0;
+  color: #fff;
+  background-color: black;
+}
+/* Formatting */
+body {
+  margin: 0px;
+  padding: 0; 
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Container for all pages */
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+  background-image: url(/images/background_img.jpg);
+  color: #fff;
+}
+/* make all links in container class white */
+.container a:link {color: #fff;}
+.container a:visited { color: #fff}
+
+/* Center elements */
+.center {
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+/* Left align elements */
+.left {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+/* table, th, td selector */
+table, td, th {
+  border: 1px solid crimson;
+  border-collapse: collapse;
+  text-align: center;
+  height: 50px;
+  padding: 10px;
+  vertical-align: middle;
+  width: 50%;
+  tr:hover {background-color: crimson}
+  margin-left: auto;
+  margin-right: auto;
+}
+.text-block {
+  position: absolute;
+  bottom: 50px;
+  top: 50px;
+  right: 400px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+/* Style the top navigation bar */
+.navbar {
+  display: flex;
+  overflow: hidden;
+  background-color: black;
+}
+/* Style the navigation bar links */
+.navbar a {
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  display: inline-block;
+  list-style-type: none;
+}
+/* Change color on hover */
+  .navbar a:hover {
+    color: crimson;
+  }
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #282828;
+}
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+/* dropdown click me */
+.click-me {
+  -moz-appearance: button;
+  -ms-appearance: button;
+  -o-appearance: button;
+  -webkit-appearance: button;
+  appearance: button;
+  text-decoration: none;
+  color: #000;
+  padding: 0.2em 0.4em;
+}​
+.edu-container {
+  background-color: whitesmoke;
+  color: crimson;
+}
+/* Resize Dey's Profile Picture */
+img.resize {
+  width: 200px;
+  height: 250px;
+}
+/* Red button for links and text */
+a.red-button:link, a.red-button:visited, .red-button {
+  background-color: crimson;
+  color: white;
+  border-radius: 25px;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.red-button:hover, .red-button:active, a.red-button:hover, a.red-button:active {
+  background-color: black;
+}
+/* Black button with red border */
+a.black-button:link, a.black-button:visited {
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  border: 2px solid crimson;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a.black-button:hover, a.black-button:active {
+  background-color: #404040;
+}
+/* Resize Dey's Books */
+img.resize_books {
+  width: 200px;
+  height: 300px;
+  margin: 25px 10px;
+}
+/* Email links */
+a.teaching:link, a.teaching:visited {
+  background-color: crimson;
+  color: white;
+  border-radius: 15px;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a.teaching:hover, a.teaching:active {
+  background-color: #282828;
+}
+/* Course links and text */
+a.courses:link, a.courses:visited, .courses {
+  background-color: black;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a.courses:hover, a.courses:active, .courses:hover, .courses:active {
+  background-color: #282828;
+}
+/* Footer */
+.footer {
+  padding: 10px;
+  color: white;
+  text-align: center;
+  background: black;
+}
+
+

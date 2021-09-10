@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport"
+         content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <!-- Use the title from a page's frontmatter if it has one -->
+      <title><%= current_page.data.title || "Tamal K. Dey" %></title>
+      <%= stylesheet_link_tag "site" %>
+   </head>
+   <!-- Navigation bar with dropdown menus --> 
+   <body>
+      <div class="container">
+         <!-- Add header --> 
+         <%= partial :'partials/header' %>
+         <div class="navbar">
+            <a class="active" href="index.html">Home</a>
+            <div class="dropdown">
+               <a class="click-me" href="publications.html">Publications
+               </a>
+               <div class="dropdown-content">
+                  <a href="https://www.cs.purdue.edu/homes/tamaldey/papers.html">Key Publications</a>
+                  <a href="other_publications.html">Other Publications</a>
+               </div>
+            </div>
+            <div class="dropdown">
+               <a class="click-me" href="research.html">Research
+               </a>
+               <div class="dropdown-content">
+                  <a href="personnel.html">Personnel</a>
+                  <a href="projects.html">Projects</a>
+                  <a href="software.html">Software</a>
+               </div>
+            </div>
+            <div class="dropdown">
+               <a class="click-me" href="professional_activities.html">Professional Activities
+               </a>
+               <div class="dropdown-content">
+                  <a href="program_committee_member.html">Program Committee Member</a>
+                  <a href="invited_talks.html">Invited Talks</a>
+                  <a href="other_activities.html">Other Activities</a>
+               </div>
+            </div>
+            <a href="dey_cv.pdf">Curriculum Vitae</a>
+         </div>
+      </div>
+      </div>
+      <!-- Content from each page inserted here --> 
+      <%= yield %>
+      <!-- Add footer -->
+      <%= partial :'partials/footer' %>
+   </body>
+</html>
+
